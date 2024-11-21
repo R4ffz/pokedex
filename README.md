@@ -22,14 +22,10 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 - Node.js instalado em sua máquina. [Baixe aqui](https://nodejs.org/).
 
 ### Passos
-
 1. **Clone este repositório**:
    git clone https://github.com/R4ffz/pokedex.git
-   cd pokedex
-   
+   cd pokedex   
 2.Instale as dependências: Execute o comando:
 npm install
-
 3.Inicie o servidor de desenvolvimento: Execute o comando: npm start
-
-4.http://localhost:3000
+4.Acesse a aplicação: Abra o navegador e acesse: http://localhost:3000
