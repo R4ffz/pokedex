@@ -1,0 +1,4 @@
+Fiz essa Pokedex visando o teste técnicos. Nele utilizei React para implementar uma interface interativa, clara e responsiva de forma que o usuário consiga buscar seus pokemons desejados, ver sua imagem e suas principais habilidades.
+Para puxar essas informações, utilizei o PokeAPIV2, uma API Pública que mostra as informações principais dos Pokémons. Vale destacar também a interatividade dessa aplicação web no qual utilizei tanto o sistema de AXIS para podermos passar as setas
+do teclado nos pokemons como clássico atributo Hover no CSS para que o card de cada pokémon se destaque quando passado o mouse. O Visual da aplicação é simples, utilizando fontes retrô de videogame e uma paleta de cores vermelha e branca que remete
+a cor da Pokebola, objeto principal do jogo e do anime. Para aplicar o design responsivo, utilizei media queries para adaptar e deixar os atributos no tamanho ideal para diversos tipos de tela.
