@@ -9,8 +9,8 @@ Fiz essa Pokedex visando o teste técnico. Nela utilizei React para implementar 
 - **Fontes e Design Retrô**: Baseado na paleta de cores vermelha e branca, remetendo à Pokébola.
 
 ## Funcionalidades
-- Busca de Pokémons pelo nome ou número.
-- Exibição de imagens, habilidades e detalhes principais dos Pokémons.
+- Busca de Pokémons pelo nome.
+- Exibição de imagens, habilidades dos Pokémons.
 - Navegação com setas do teclado para percorrer os cards.
 - Interatividade nos cards utilizando hover em CSS.
 
@@ -32,3 +32,6 @@ npm install
 3. **Inicie o servidor de desenvolvimento:** Execute o comando: npm start
 
 4. **Acesse a aplicação:** Abra o navegador e acesse: http://localhost:3000
+
+Considerações Finais
+Esse projeto foi desenvolvido com o objetivo de mostrar habilidades práticas no uso de React, estilização responsiva e consumo de APIs.
