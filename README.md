@@ -1,4 +1,35 @@
-Fiz essa Pokedex visando o teste técnicos. Nele utilizei React para implementar uma interface interativa, clara e responsiva de forma que o usuário consiga buscar seus pokemons desejados, ver sua imagem e suas principais habilidades.
-Para puxar essas informações, utilizei o PokeAPIV2, uma API Pública que mostra as informações principais dos Pokémons. Vale destacar também a interatividade dessa aplicação web no qual utilizei tanto o sistema de AXIS para podermos passar as setas
-do teclado nos pokemons como clássico atributo Hover no CSS para que o card de cada pokémon se destaque quando passado o mouse. O Visual da aplicação é simples, utilizando fontes retrô de videogame e uma paleta de cores vermelha e branca que remete
-a cor da Pokebola, objeto principal do jogo e do anime. Para aplicar o design responsivo, utilizei media queries para adaptar e deixar os atributos no tamanho ideal para diversos tipos de tela.
+# Pokedex
+
+Fiz essa Pokedex visando o teste técnico. Nela utilizei React para implementar uma interface interativa, clara e responsiva de forma que o usuário consiga buscar seus pokémons desejados, ver sua imagem e suas principais habilidades. 
+
+## Tecnologias Utilizadas
+- **React**: Framework para desenvolvimento da interface.
+- **PokeAPI**: API pública para obter informações sobre os Pokémons.
+- **CSS Responsivo**: Media queries e hover para design adaptável e interativo.
+- **Fontes e Design Retrô**: Baseado na paleta de cores vermelha e branca, remetendo à Pokébola.
+
+## Funcionalidades
+- Busca de Pokémons pelo nome ou número.
+- Exibição de imagens, habilidades e detalhes principais dos Pokémons.
+- Navegação com setas do teclado para percorrer os cards.
+- Interatividade nos cards utilizando hover em CSS.
+
+## Como Rodar o Projeto
+
+Siga os passos abaixo para rodar o projeto em sua máquina local.
+
+### Pré-requisitos
+- Node.js instalado em sua máquina. [Baixe aqui](https://nodejs.org/).
+
+### Passos
+
+1. **Clone este repositório**:
+   git clone https://github.com/R4ffz/pokedex.git
+   cd pokedex
+   
+2.Instale as dependências: Execute o comando:
+npm install
+
+3.Inicie o servidor de desenvolvimento: Execute o comando: npm start
+
+4.http://localhost:3000
