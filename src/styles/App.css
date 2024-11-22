@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Press Start 2P', sans-serif;
-  background: linear-gradient(135deg, #FF0000 20%, #FFFFFF 80%); /* Gradiente inspirado na Pokébola */
+  background: linear-gradient(135deg, #FF0000 20%, #FFFFFF 80%); 
   min-height: 100vh;
   color: #333;
   display: flex;
@@ -82,7 +82,7 @@ body {
 }
 
 .pokemon-card h3 {
-  font-size: 14px; /* Ajuste conforme necessário */
+  font-size: 14px; 
 }
 .badge {
   display: inline-block;
@@ -95,7 +95,7 @@ body {
 }
 
 h1 {
-  font-size: 2.4rem; /* Ajustado o tamanho do título */
+  font-size: 2.4rem; 
   font-weight: bold;
   color: rgb(0, 0, 0);
   margin-bottom: 20px;
